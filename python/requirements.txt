@@ -1,0 +1,1 @@
+ccxt @ git+https://github.com/adrika-novrialdi-idx/ccxt.git@feat/indodax-tapi-v2-sandbox-generated

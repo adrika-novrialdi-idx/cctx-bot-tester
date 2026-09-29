@@ -30,3 +30,32 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# ai files
+.junie
+.ai
+
+# Local credentials (copy from config.example.json)
+config.json
+v1-key.json
+
+# Shared CCXT fork clone (C#, Java, Rust)
+vendor/ccxt/
+
+# Language build / dependency caches
+javascript/node_modules/
+php/vendor/
+java/.gradle/
+java/build/
+csharp/**/bin/
+csharp/**/obj/
+rust/target/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.venv/
+venv/

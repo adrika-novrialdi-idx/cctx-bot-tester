@@ -1,0 +1,26 @@
+{
+    "name": "adrika-novrialdi-idx/indodax-sandbox",
+    "description": "Indodax sandbox test bot",
+    "type": "project",
+    "require": {
+        "php": ">=8.1",
+        "ccxt/ccxt": "dev-feat/indodax-tapi-v2-sandbox-generated",
+        "ext-curl": "*",
+        "ext-gmp": "*",
+        "ext-bcmath": "*",
+        "ext-openssl": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/adrika-novrialdi-idx/ccxt"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "IndodaxSandbox\\": "src/"
+        }
+    }
+}

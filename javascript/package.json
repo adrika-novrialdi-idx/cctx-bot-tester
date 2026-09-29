@@ -1,0 +1,15 @@
+{
+  "name": "indodax-sandbox",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "indodax-sandbox": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js"
+  },
+  "dependencies": {
+    "ccxt": "github:adrika-novrialdi-idx/ccxt#feat/indodax-tapi-v2-sandbox-generated"
+  }
+}
