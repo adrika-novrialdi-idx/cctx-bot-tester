@@ -35,4 +35,4 @@ require (
 	google.golang.org/protobuf v1.36.11 // indirect
 )
 
-replace github.com/ccxt/ccxt/go/v4 => github.com/adrika-novrialdi-idx/ccxt/go/v4 v4.0.0-20260929132053-5abc9a4f9f79
+replace github.com/ccxt/ccxt/go/v4 => github.com/adrika-novrialdi-idx/ccxt/go/v4 v4.0.0-20260929173734-8fa0ed738d26

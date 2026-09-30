@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "db422ceaeabd4f7ccf9f1dd70176bd26",
+    "content-hash": "938b158a05e74692a8b21dab7009ddf7",
     "packages": [
         {
             "name": "ccxt/ccxt",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/adrika-novrialdi-idx/ccxt.git",
-                "reference": "5abc9a4f9f79017a6a6ab788f328642692eb91f9"
+                "reference": "8fa0ed738d262abeb62237f2218d74bfa59942de"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/adrika-novrialdi-idx/ccxt/zipball/5abc9a4f9f79017a6a6ab788f328642692eb91f9",
-                "reference": "5abc9a4f9f79017a6a6ab788f328642692eb91f9",
+                "url": "https://api.github.com/repos/adrika-novrialdi-idx/ccxt/zipball/8fa0ed738d262abeb62237f2218d74bfa59942de",
+                "reference": "8fa0ed738d262abeb62237f2218d74bfa59942de",
                 "shasum": ""
             },
             "require": {
@@ -231,7 +231,7 @@
                     "url": "https://opencollective.com/ccxt"
                 }
             ],
-            "time": "2026-09-29T13:20:53+00:00"
+            "time": "2026-09-29T17:37:34+00:00"
         },
         {
             "name": "clue/http-proxy-react",
